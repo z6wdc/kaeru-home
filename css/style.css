@@ -1,0 +1,21 @@
+body {
+  background-color: #eaf6f6;
+}
+
+hr {
+  background-color: white;
+  border-style: none;
+  height: 2px;
+}
+
+h1 {
+  color: #66bfbf;
+}
+
+.top-container {
+  background-color: #eaf6f6;
+}
+
+.middle-container {
+  background-color: black;
+}
