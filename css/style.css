@@ -19,3 +19,8 @@ h1 {
 .middle-container {
   background-color: black;
 }
+
+.bg {
+  width: 100%;
+  height: auto;
+}
